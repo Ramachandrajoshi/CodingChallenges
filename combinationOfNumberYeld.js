@@ -22,11 +22,11 @@ var whichCombinationNumbers = (ip,combination,num) => {
     values.pop();
     if (values.length == combination) {
       var sum = values.reduce((prev, cur) => prev + Number.parseInt(cur), 0);
-      if (sum == num) return values.join(",")
+      if (sum == num) return values.join(",")+" numbers sum will yeld "+num;
     }
     str = ""
   }
-  return "no "+combination+" numbers combination will yeld "+num;;
+  return "no "+combination+" numbers sum will yeld "+num;
 };
 
 

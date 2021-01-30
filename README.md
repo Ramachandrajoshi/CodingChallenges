@@ -1,1 +1,1 @@
-this is the collection of some coding challenges which i have received from verius sources like whatsapp and facebook. 
+Just some codes i did while boared

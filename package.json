@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "check-word": "^1.1.0"
+  },
+  "name": "challenges",
+  "description": "Just some codes i did while boared",
+  "version": "1.0.0",
+  "main": "allPossibleWordsFromString.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramachandrajoshi/CodingChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramachandrajoshi/CodingChallenges/issues"
+  },
+  "homepage": "https://github.com/Ramachandrajoshi/CodingChallenges#readme"
+}
